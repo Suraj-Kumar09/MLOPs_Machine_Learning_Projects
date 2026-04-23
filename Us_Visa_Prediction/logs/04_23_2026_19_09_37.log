@@ -1,0 +1,2 @@
+[ 2026-04-23 19:09:37,333 ] root - INFO - Testing custom exception and logger
+[ 2026-04-23 19:09:37,333 ] root - INFO - Error occurred, raising custom exception

@@ -41,3 +41,18 @@ export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
 export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 ```
+
+## Workflow:
+
+1 Constants
+2 entity
+3 Components
+4 Pipelines
+
+### Export the environment variable
+
+```bash
+
+export MONGODB_URL "APNA MONGODB KA URL PASTE KRO"
+
+```

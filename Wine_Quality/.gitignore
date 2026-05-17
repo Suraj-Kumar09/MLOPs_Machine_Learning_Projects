@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLflow data (Most Important)
+mlruns/
+mlflow.db
+mlartifacts/
+
+# Local Outputs
+Confusion_Matrix.png
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

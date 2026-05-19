@@ -1,0 +1,17 @@
+# Local Generated Folders
+artifact/
+logs/
+
+# Python Cache & System Files
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+venv/
+.idea/
+.vscode/
+
+# Binary Models & Extracted Data
+*.pkl
+*.npy
+*.csv
